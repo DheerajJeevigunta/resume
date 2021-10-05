@@ -1,0 +1,12 @@
+hr{
+    border-color: grey;
+    border-width: 5px; ;
+    width: 100%;
+}
+body {
+    background-color:#fcf9f9;
+}
+.side{
+    background-color: darkgrey;
+    color: black;
+}
